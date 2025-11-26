@@ -1,9 +1,3 @@
-from google.adk.agents.llm_agent import Agent
+from fin_guard_ai.agents.finguard_agent import root_agent
 
-root_agent = Agent(
-    model='gemini-2.5-flash',
-    name='root_agent',
-    description='A helpful assistant for user questions.',
-    instruction='Answer user questions to the best of your knowledge',
-)
-
+agent=root_agent
