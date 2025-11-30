@@ -1,0 +1,8 @@
+mcp:
+  config_file: "mcp_config.json"
+
+observability:
+  logging:
+    level: INFO
+  tracing:
+    enabled: true

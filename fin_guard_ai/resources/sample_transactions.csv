@@ -1,0 +1,13 @@
+Date,Description,Amount,Type,Category
+2025-11-01,Salary Credit,50000,Credit,Income
+2025-11-02,Rent Payment,-15000,Debit,Housing
+2025-11-05,Swiggy Order,-450,Debit,Dining
+2025-11-07,Uber Ride,-280,Debit,Transport
+2025-11-10,Grocery Store,-3200,Debit,Groceries
+2025-11-12,Netflix Subscription,-799,Debit,Entertainment
+2025-11-15,Restaurant,-1800,Debit,Dining
+2025-11-18,Mutual Fund SIP,-5000,Debit,Investment
+2025-11-20,Electricity Bill,-1200,Debit,Utilities
+2025-11-22,Movie Tickets,-600,Debit,Entertainment
+2025-11-25,Pharmacy,-890,Debit,Healthcare
+2025-11-28,Zomato Order,-680,Debit,Dining

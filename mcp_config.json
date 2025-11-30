@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "finguard": {
+      "command": "python",
+      "args": ["mcp_server_standalone.py"],
+      "env": {}
+    }
+  }
+}
