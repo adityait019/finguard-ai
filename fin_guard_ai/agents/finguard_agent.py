@@ -24,9 +24,10 @@ finguard_mcp_toolset = MCPToolset(
     connection_params=StdioConnectionParams(
         server_params=StdioServerParameters(
             command="python",           # or "python3" depending on your environment
-            args=[MCP_SERVER_PATH],     # Path to your MCP server script
+            args=[MCP_SERVER_PATH],
+            env=None     # Path to your MCP server script
         ),
-        # timeout=5,  # optional
+        timeout=15,  # optional
     ),
     # Optional: filter only the tools you want the LLM to see
     # tool_filter=['read_transaction_file', 'calculate_loan_emi', 'search_financial_info'],

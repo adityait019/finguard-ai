@@ -1,0 +1,168 @@
+2025-12-01 18:50:53,628 - FinGuard MCP - [INFO] - Starting FinGuard MCP server (stdio)...
+2025-12-01 18:50:53,636 - FinGuard MCP - [INFO] - FinGuard MCP server initialized and waiting for client connections
+2025-12-01 18:57:30,922 - FinGuard MCP - [INFO] - Starting FinGuard MCP server (stdio)...
+2025-12-01 18:57:30,939 - FinGuard MCP - [INFO] - FinGuard MCP server initialized and waiting for client connections
+2025-12-01 18:57:30,949 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 18:57:30,949 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 18:57:41,382 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 18:57:41,383 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 18:57:44,669 - FinGuard MCP - [INFO] - Starting FinGuard MCP server (stdio)...
+2025-12-01 18:57:44,687 - FinGuard MCP - [INFO] - FinGuard MCP server initialized and waiting for client connections
+2025-12-01 18:57:44,703 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 18:57:44,703 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 18:57:44,706 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 18:57:44,707 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 18:57:46,540 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 18:57:46,540 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 18:57:55,811 - FinGuard MCP - [INFO] - Processing request of type CallToolRequest
+2025-12-01 18:57:55,815 - FinGuard MCP - [INFO] - Tool called: read_transaction_file with args: {"file_name": "sample_transactions.csv"}
+2025-12-01 18:57:55,816 - FinGuard MCP - [INFO] - Reading transaction file: C:\Users\adity\project\agent capstone\fin_guard_ai\resources\sample_transactions.csv
+2025-12-01 18:57:55,818 - FinGuard MCP - [INFO] - Successfully read 12 transactions
+2025-12-01 18:57:55,838 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 18:57:55,838 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 18:58:34,152 - FinGuard MCP - [INFO] - Starting FinGuard MCP server (stdio)...
+2025-12-01 18:58:34,163 - FinGuard MCP - [INFO] - FinGuard MCP server initialized and waiting for client connections
+2025-12-01 18:58:34,169 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 18:58:34,169 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 18:58:36,908 - FinGuard MCP - [INFO] - Starting FinGuard MCP server (stdio)...
+2025-12-01 18:58:36,914 - FinGuard MCP - [INFO] - FinGuard MCP server initialized and waiting for client connections
+2025-12-01 18:58:36,924 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 18:58:36,925 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 18:58:36,935 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 18:58:36,935 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 18:58:36,943 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 18:58:36,943 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 18:58:36,963 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 18:58:36,964 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 18:58:36,968 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 18:58:36,968 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 18:58:36,981 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 18:58:36,982 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 18:58:36,986 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 18:58:36,987 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 18:58:36,996 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 18:58:36,997 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 18:58:37,003 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 18:58:37,003 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 18:58:45,866 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 18:58:45,867 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 18:58:45,872 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 18:58:45,873 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 18:58:49,192 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 18:58:49,192 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 18:58:49,200 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 18:58:49,200 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 19:03:25,639 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 19:03:25,641 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 19:03:25,666 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 19:03:25,667 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 19:03:29,043 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 19:03:29,044 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 19:03:29,049 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 19:03:29,050 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 19:03:35,213 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 19:03:35,214 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 19:03:35,221 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 19:03:35,222 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 19:03:50,669 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 19:03:50,670 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 19:03:50,680 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 19:03:50,681 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 19:05:32,269 - FinGuard MCP - [INFO] - Starting FinGuard MCP server (stdio)...
+2025-12-01 19:05:32,276 - FinGuard MCP - [INFO] - FinGuard MCP server initialized and waiting for client connections
+2025-12-01 19:09:04,397 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 19:09:04,398 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 19:09:16,313 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 19:09:16,313 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 19:09:16,325 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 19:09:16,326 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 19:09:21,803 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 19:09:21,804 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 19:09:21,820 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 19:09:21,820 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 19:09:25,818 - FinGuard MCP - [INFO] - Processing request of type CallToolRequest
+2025-12-01 19:09:25,824 - FinGuard MCP - [INFO] - Tool called: read_transaction_file with args: {"file_name": "sample_transactions.csv"}
+2025-12-01 19:09:25,826 - FinGuard MCP - [INFO] - Reading transaction file: C:\Users\adity\project\agent capstone\fin_guard_ai\resources\sample_transactions.csv
+2025-12-01 19:09:25,827 - FinGuard MCP - [INFO] - Successfully read 12 transactions
+2025-12-01 19:09:25,843 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 19:09:25,843 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 19:09:37,108 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 19:09:37,108 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 19:09:37,116 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 19:09:37,116 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 19:09:38,715 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 19:09:38,716 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 19:09:38,724 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 19:09:38,724 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 19:09:39,950 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 19:09:39,950 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 19:09:39,959 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 19:09:39,959 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 19:09:41,861 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 19:09:41,862 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 19:09:41,867 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 19:09:41,867 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 19:09:59,731 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 19:09:59,732 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 19:09:59,740 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 19:09:59,742 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 19:10:01,129 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 19:10:01,129 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 19:10:01,139 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 19:10:01,140 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 19:10:01,845 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 19:10:01,845 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 19:10:01,853 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 19:10:01,854 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 19:10:02,887 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 19:10:02,887 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 19:10:02,897 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 19:10:02,897 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 19:11:03,790 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 19:11:03,791 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 19:11:03,801 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 19:11:03,801 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 19:11:07,069 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 19:11:07,069 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 19:11:07,078 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 19:11:07,079 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 19:12:15,991 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 19:12:15,992 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 19:12:26,122 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 19:12:26,124 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 19:25:33,426 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 19:25:33,427 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 19:25:44,984 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 19:25:44,985 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 19:25:45,002 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 19:25:45,003 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 19:25:55,060 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 19:25:55,061 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 19:25:55,074 - FinGuard MCP - [INFO] - Processing request of type CallToolRequest
+2025-12-01 19:25:55,078 - FinGuard MCP - [INFO] - Tool called: read_transaction_file with args: {"file_name": "sample_transactions.csv"}
+2025-12-01 19:25:55,080 - FinGuard MCP - [INFO] - Reading transaction file: C:\Users\adity\project\agent capstone\fin_guard_ai\resources\sample_transactions.csv
+2025-12-01 19:25:55,080 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 19:25:55,081 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 19:25:55,081 - FinGuard MCP - [INFO] - Successfully read 12 transactions
+2025-12-01 19:25:55,091 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 19:25:55,093 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 19:26:05,693 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 19:26:05,693 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 19:26:05,700 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 19:26:05,701 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 19:26:43,854 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 19:26:43,855 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 19:26:43,863 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 19:26:43,863 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 19:26:46,988 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 19:26:46,988 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 19:26:46,993 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 19:26:46,993 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 19:29:05,152 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 19:29:05,153 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 19:29:16,045 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 19:29:16,046 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 19:29:17,614 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 19:29:17,614 - FinGuard MCP - [INFO] - list_tools called
+2025-12-01 19:29:17,623 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-01 19:29:17,624 - FinGuard MCP - [INFO] - list_tools called
