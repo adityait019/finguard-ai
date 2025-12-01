@@ -486,7 +486,7 @@ Apache License 2.0 - See LICENSE file
 ## 👤 Author
 
 **Aditya Kumar**  
-Backend AI Engineer | Multi-Agent Systems | ADK Specialist  
+Backend AI Engineer | Multi-Agent Systems | ADK Explorer  
 GitHub: [@adityait019](https://github.com/adityait019)  
 Location: Kolkata, West Bengal, India
 
