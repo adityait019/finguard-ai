@@ -10,10 +10,17 @@ from fin_guard_ai.prompts.prompt_loader import load_prompt
 from fin_guard_ai.agents.analyst_agent import analyst_agent
 from fin_guard_ai.agents.budget_advisor_agent import budget_advisor_agent
 from fin_guard_ai.agents.parallel_financial_agent import parallel_financial_agent
+from google.adk.models.lite_llm import LiteLlm
+import os
+from dotenv import load_dotenv
+load_dotenv(override=True)
 
+MODEL_NAME=os.getenv('GEMINI_MODEL_NAME', 'gemini/gemini-2.0-flash')
+llm=LiteLlm(model=MODEL_NAME, api_key=os.getenv('FIRST_GOOGLE_API_KEY'))
 
 
 MCP_SERVER_PATH = r"C:\Users\adity\project\agent capstone\fin_guard_ai\mcp_server.py"
+
 
 # Safety check for local dev (you can comment this out after you verify)
 if not os.path.exists(MCP_SERVER_PATH):
@@ -34,7 +41,7 @@ finguard_mcp_toolset = MCPToolset(
 )
 
 root_agent = LlmAgent(
-    model='gemini-2.0-flash',
+    model=llm,
     name='fin_guard',
     description='A proactive personal finance and investment concierge with multi-agent and MCP-enabled capabilities.',
     instruction=load_prompt(r'C:\Users\adity\project\agent capstone\fin_guard_ai\prompts\finguard_prompt.txt'),

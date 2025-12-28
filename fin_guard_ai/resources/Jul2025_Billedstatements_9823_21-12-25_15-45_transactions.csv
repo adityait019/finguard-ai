@@ -1,0 +1,20 @@
+Transaction type,Primary / Addon Customer Name,DATE,Description,AMT,Debit / Credit
+Domestic,ADITYA KUMAR,13/06/2025 19:40:47,PZRECHARGE NON BBPS    MUMBAI,398,Debited
+Domestic,ADITYA KUMAR,16/06/2025 12:50:09,Eat Good Technologies PvtBangalore,100,Debited
+Domestic,ADITYA KUMAR,16/06/2025 23:07:06,ZOMATO                   NEW DELHI,286.8,Debited
+Domestic,ADITYA KUMAR,16/06/2025 10:48:21,Flipkart Internet PrivateBengaluru,"                      30,083.00",Debited
+Domestic,ADITYA KUMAR,17/06/2025 08:24:07,Eat Good Technologies PvtBangalore,26,Debited
+Domestic,ADITYA KUMAR,17/06/2025 12:43:39,Eat Good Technologies PvtBangalore,130,Debited
+Domestic,ADITYA KUMAR,17/06/2025 19:58:23,Eat Good Technologies PvtBangalore,272,Debited
+Domestic,ADITYA KUMAR,18/06/2025 09:05:20,Eat Good Technologies PvtBangalore,66,Debited
+Domestic,ADITYA KUMAR,18/06/2025 19:26:43,PAY*EAT GOOD TECHNOLOG   BANGALORE,40,Debited
+Domestic,ADITYA KUMAR,18/06/2025 13:21:11,Eat Good Technologies PvtBangalore,65,Debited
+Domestic,ADITYA KUMAR,18/06/2025 19:43:12,Eat Good Technologies PvtBangalore,214,Debited
+Domestic,ADITYA KUMAR,20/06/2025         ,DIAL AN EMI (Ref# 09999999980620000246617),"                      30,083.00",Credited
+Domestic,ADITYA KUMAR,21/06/2025         ,"SMARTEMI ,PROCNG FEE,00000000001258 (Ref# 09999999980621010129603)",849,Debited
+Domestic,ADITYA KUMAR,21/06/2025 11:10:25,MICROSOFT INDIA          MUMBAI,2,Debited
+Domestic,ADITYA KUMAR,21/06/2025         ,IGST-VPS2617381530136-RATE 18.0 -19 (Ref# 09999999980621010129603),152.82,Debited
+Domestic,ADITYA KUMAR,21/06/2025         ,MICROSOFT INDIA          MUMBAI,2,Credited
+Domestic,ADITYA KUMAR,30/06/2025 16:33:39,Eat Good Technologies PvtBangalore,80,Debited
+Domestic,ADITYA KUMAR,13/07/2025         ,"SMARTEMI ,PRIN NB:01,00000125802299 (Ref# 09999999980713013924245)","                       4,782.00",Debited
+Domestic,ADITYA KUMAR,13/07/2025         ,"SMARTEMI ,INT NBR:01,00000125802299 (Ref# 09999999980713013924252)",815,Debited

@@ -20,7 +20,8 @@ def read_bank_statement(filename: str) -> str:
             return f"Error: File '{filename}' not found in resources folder."
             
         # Read CSV using pandas
-        df = pd.read_csv(file_path)
+        # df = pd.read_csv(file_path)
+        df=pd.read_excel(file_path)
         
         # Return as a formatted string LLM can understand
         return df.to_string(index=False)

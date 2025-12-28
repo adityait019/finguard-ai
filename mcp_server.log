@@ -166,3 +166,277 @@
 2025-12-01 19:29:17,614 - FinGuard MCP - [INFO] - list_tools called
 2025-12-01 19:29:17,623 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
 2025-12-01 19:29:17,624 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 16:32:48,602 - FinGuard MCP - [INFO] - Starting FinGuard MCP server (stdio)...
+2025-12-21 16:32:48,609 - FinGuard MCP - [INFO] - FinGuard MCP server initialized and waiting for client connections
+2025-12-21 16:32:48,627 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 16:32:48,627 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 16:36:13,088 - FinGuard MCP - [INFO] - Starting FinGuard MCP server (stdio)...
+2025-12-21 16:36:13,095 - FinGuard MCP - [INFO] - FinGuard MCP server initialized and waiting for client connections
+2025-12-21 16:36:13,104 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 16:36:13,104 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 16:39:52,431 - FinGuard MCP - [INFO] - Starting FinGuard MCP server (stdio)...
+2025-12-21 16:39:52,439 - FinGuard MCP - [INFO] - FinGuard MCP server initialized and waiting for client connections
+2025-12-21 16:39:52,447 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 16:39:52,447 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 16:46:12,229 - FinGuard MCP - [INFO] - Starting FinGuard MCP server (stdio)...
+2025-12-21 16:46:12,240 - FinGuard MCP - [INFO] - FinGuard MCP server initialized and waiting for client connections
+2025-12-21 16:46:12,252 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 16:46:12,252 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 16:55:54,799 - FinGuard MCP - [INFO] - Starting FinGuard MCP server (stdio)...
+2025-12-21 16:55:54,807 - FinGuard MCP - [INFO] - FinGuard MCP server initialized and waiting for client connections
+2025-12-21 16:55:54,816 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 16:55:54,817 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 17:19:30,255 - FinGuard MCP - [INFO] - Starting FinGuard MCP server (stdio)...
+2025-12-21 17:19:30,267 - FinGuard MCP - [INFO] - FinGuard MCP server initialized and waiting for client connections
+2025-12-21 17:19:30,279 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 17:19:30,279 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 17:36:00,902 - FinGuard MCP - [INFO] - Starting FinGuard MCP server (stdio)...
+2025-12-21 17:36:00,909 - FinGuard MCP - [INFO] - FinGuard MCP server initialized and waiting for client connections
+2025-12-21 17:36:00,919 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 17:36:00,919 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 17:36:03,578 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 17:36:03,578 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 20:45:21,232 - FinGuard MCP - [INFO] - Starting FinGuard MCP server (stdio)...
+2025-12-21 20:45:21,240 - FinGuard MCP - [INFO] - FinGuard MCP server initialized and waiting for client connections
+2025-12-21 20:45:21,254 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 20:45:21,254 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 20:45:24,147 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 20:45:24,148 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 20:45:25,442 - FinGuard MCP - [INFO] - Starting FinGuard MCP server (stdio)...
+2025-12-21 20:45:25,448 - FinGuard MCP - [INFO] - FinGuard MCP server initialized and waiting for client connections
+2025-12-21 20:45:25,456 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 20:45:25,456 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 20:50:01,373 - FinGuard MCP - [INFO] - Starting FinGuard MCP server (stdio)...
+2025-12-21 20:50:01,380 - FinGuard MCP - [INFO] - FinGuard MCP server initialized and waiting for client connections
+2025-12-21 20:50:01,389 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 20:50:01,390 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 20:50:03,334 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 20:50:03,335 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 20:50:04,614 - FinGuard MCP - [INFO] - Starting FinGuard MCP server (stdio)...
+2025-12-21 20:50:04,622 - FinGuard MCP - [INFO] - FinGuard MCP server initialized and waiting for client connections
+2025-12-21 20:50:04,630 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 20:50:04,630 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 20:50:37,536 - FinGuard MCP - [INFO] - Starting FinGuard MCP server (stdio)...
+2025-12-21 20:50:37,542 - FinGuard MCP - [INFO] - FinGuard MCP server initialized and waiting for client connections
+2025-12-21 20:50:37,550 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 20:50:37,551 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 20:50:39,354 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 20:50:39,354 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 20:50:39,362 - FinGuard MCP - [INFO] - Processing request of type CallToolRequest
+2025-12-21 20:50:39,383 - FinGuard MCP - [INFO] - Tool called: read_transaction_file with args: {"file_name": "Jun2025_transactions.csv"}
+2025-12-21 20:50:39,384 - FinGuard MCP - [INFO] - Reading transaction file: C:\Users\adity\project\agent capstone\fin_guard_ai\resources\Jun2025_transactions.csv
+2025-12-21 20:50:39,385 - FinGuard MCP - [INFO] - Successfully read 26 transactions
+2025-12-21 20:50:39,393 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 20:50:39,393 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 20:51:15,941 - FinGuard MCP - [INFO] - Starting FinGuard MCP server (stdio)...
+2025-12-21 20:51:15,948 - FinGuard MCP - [INFO] - FinGuard MCP server initialized and waiting for client connections
+2025-12-21 20:51:15,954 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 20:51:15,955 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 20:51:16,510 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 20:51:16,510 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 20:51:17,366 - FinGuard MCP - [INFO] - Starting FinGuard MCP server (stdio)...
+2025-12-21 20:51:17,372 - FinGuard MCP - [INFO] - FinGuard MCP server initialized and waiting for client connections
+2025-12-21 20:51:17,379 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 20:51:17,379 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 20:51:17,380 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 20:51:17,380 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 20:51:17,388 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 20:51:17,389 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 20:51:17,394 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 20:51:17,394 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 20:53:18,678 - FinGuard MCP - [INFO] - Starting FinGuard MCP server (stdio)...
+2025-12-21 20:53:18,684 - FinGuard MCP - [INFO] - FinGuard MCP server initialized and waiting for client connections
+2025-12-21 20:53:35,835 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 20:53:35,836 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 20:53:39,748 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 20:53:39,748 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 20:54:28,706 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 20:54:28,706 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 20:54:30,743 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 20:54:30,743 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 20:54:30,752 - FinGuard MCP - [INFO] - Processing request of type CallToolRequest
+2025-12-21 20:54:30,756 - FinGuard MCP - [INFO] - Tool called: read_transaction_file with args: {"file_name": "Jun2025_transactions.csv"}
+2025-12-21 20:54:30,756 - FinGuard MCP - [INFO] - Reading transaction file: C:\Users\adity\project\agent capstone\fin_guard_ai\resources\Jun2025_transactions.csv
+2025-12-21 20:54:30,757 - FinGuard MCP - [INFO] - Successfully read 26 transactions
+2025-12-21 20:54:30,766 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 20:54:30,766 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 20:57:03,884 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 20:57:03,885 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 20:57:03,894 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 20:57:03,895 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 20:57:05,244 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 20:57:05,244 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 20:57:05,256 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 20:57:05,257 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 21:06:34,259 - FinGuard MCP - [INFO] - Starting FinGuard MCP server (stdio)...
+2025-12-21 21:06:34,267 - FinGuard MCP - [INFO] - FinGuard MCP server initialized and waiting for client connections
+2025-12-21 21:06:51,017 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 21:06:51,018 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 21:06:53,465 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 21:06:53,466 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 21:06:53,474 - FinGuard MCP - [INFO] - Processing request of type CallToolRequest
+2025-12-21 21:06:53,477 - FinGuard MCP - [INFO] - Tool called: read_transaction_file with args: {"file_name": "Jun2025_transactions.csv"}
+2025-12-21 21:06:53,479 - FinGuard MCP - [INFO] - Reading transaction file: C:\Users\adity\project\agent capstone\fin_guard_ai\resources\Jun2025_transactions.csv
+2025-12-21 21:06:53,479 - FinGuard MCP - [INFO] - Successfully read 26 transactions
+2025-12-21 21:06:53,490 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 21:06:53,491 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 21:07:44,360 - FinGuard MCP - [INFO] - Starting FinGuard MCP server (stdio)...
+2025-12-21 21:07:44,367 - FinGuard MCP - [INFO] - FinGuard MCP server initialized and waiting for client connections
+2025-12-21 21:07:44,373 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 21:07:44,374 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 21:07:46,148 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 21:07:46,148 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 21:08:12,434 - FinGuard MCP - [INFO] - Starting FinGuard MCP server (stdio)...
+2025-12-21 21:08:12,440 - FinGuard MCP - [INFO] - FinGuard MCP server initialized and waiting for client connections
+2025-12-21 21:08:12,448 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 21:08:12,448 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 21:08:16,101 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 21:08:16,102 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 21:08:17,395 - FinGuard MCP - [INFO] - Starting FinGuard MCP server (stdio)...
+2025-12-21 21:08:17,401 - FinGuard MCP - [INFO] - FinGuard MCP server initialized and waiting for client connections
+2025-12-21 21:08:17,409 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 21:08:17,410 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 21:08:19,257 - FinGuard MCP - [INFO] - Processing request of type CallToolRequest
+2025-12-21 21:08:19,261 - FinGuard MCP - [INFO] - Tool called: read_transaction_file with args: {"file_name": "Jun2025_transactions.csv"}
+2025-12-21 21:08:19,262 - FinGuard MCP - [INFO] - Reading transaction file: C:\Users\adity\project\agent capstone\fin_guard_ai\resources\Jun2025_transactions.csv
+2025-12-21 21:08:19,263 - FinGuard MCP - [INFO] - Successfully read 26 transactions
+2025-12-21 21:08:19,273 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 21:08:19,274 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 21:08:58,218 - FinGuard MCP - [INFO] - Starting FinGuard MCP server (stdio)...
+2025-12-21 21:08:58,227 - FinGuard MCP - [INFO] - FinGuard MCP server initialized and waiting for client connections
+2025-12-21 21:08:58,233 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 21:08:58,233 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 21:09:00,817 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 21:09:00,818 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 21:53:48,012 - FinGuard MCP - [INFO] - Starting FinGuard MCP server (stdio)...
+2025-12-21 21:53:48,018 - FinGuard MCP - [INFO] - FinGuard MCP server initialized and waiting for client connections
+2025-12-21 21:53:48,027 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 21:53:48,027 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 21:53:50,220 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 21:53:50,221 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 21:54:16,172 - FinGuard MCP - [INFO] - Starting FinGuard MCP server (stdio)...
+2025-12-21 21:54:16,179 - FinGuard MCP - [INFO] - FinGuard MCP server initialized and waiting for client connections
+2025-12-21 21:54:16,189 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 21:54:16,190 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 21:54:18,001 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 21:54:18,002 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 21:54:19,526 - FinGuard MCP - [INFO] - Starting FinGuard MCP server (stdio)...
+2025-12-21 21:54:19,532 - FinGuard MCP - [INFO] - FinGuard MCP server initialized and waiting for client connections
+2025-12-21 21:54:19,540 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 21:54:19,541 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 21:55:31,224 - FinGuard MCP - [INFO] - Starting FinGuard MCP server (stdio)...
+2025-12-21 21:55:31,232 - FinGuard MCP - [INFO] - FinGuard MCP server initialized and waiting for client connections
+2025-12-21 21:55:31,241 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 21:55:31,241 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 21:55:32,935 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 21:55:32,936 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 21:55:32,945 - FinGuard MCP - [INFO] - Processing request of type CallToolRequest
+2025-12-21 21:55:32,948 - FinGuard MCP - [INFO] - Tool called: read_transaction_file with args: {"file_name": "all_transactions_merged.csv"}
+2025-12-21 21:55:32,949 - FinGuard MCP - [INFO] - Reading transaction file: C:\Users\adity\project\agent capstone\fin_guard_ai\resources\all_transactions_merged.csv
+2025-12-21 21:55:32,971 - FinGuard MCP - [INFO] - Successfully read 176 transactions
+2025-12-21 21:55:32,978 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 21:55:32,979 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 21:56:29,278 - FinGuard MCP - [INFO] - Starting FinGuard MCP server (stdio)...
+2025-12-21 21:56:29,284 - FinGuard MCP - [INFO] - FinGuard MCP server initialized and waiting for client connections
+2025-12-21 21:56:29,293 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 21:56:29,293 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 22:01:59,468 - FinGuard MCP - [INFO] - Starting FinGuard MCP server (stdio)...
+2025-12-21 22:01:59,473 - FinGuard MCP - [INFO] - FinGuard MCP server initialized and waiting for client connections
+2025-12-21 22:01:59,483 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 22:01:59,484 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 22:03:24,014 - FinGuard MCP - [INFO] - Starting FinGuard MCP server (stdio)...
+2025-12-21 22:03:24,022 - FinGuard MCP - [INFO] - FinGuard MCP server initialized and waiting for client connections
+2025-12-21 22:03:24,028 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 22:03:24,028 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 22:05:15,304 - FinGuard MCP - [INFO] - Starting FinGuard MCP server (stdio)...
+2025-12-21 22:05:15,310 - FinGuard MCP - [INFO] - FinGuard MCP server initialized and waiting for client connections
+2025-12-21 22:05:15,318 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 22:05:15,319 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 22:08:12,294 - FinGuard MCP - [INFO] - Starting FinGuard MCP server (stdio)...
+2025-12-21 22:08:12,304 - FinGuard MCP - [INFO] - FinGuard MCP server initialized and waiting for client connections
+2025-12-21 22:08:12,310 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 22:08:12,311 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 22:08:13,741 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 22:08:13,741 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 22:08:51,499 - FinGuard MCP - [INFO] - Starting FinGuard MCP server (stdio)...
+2025-12-21 22:08:51,504 - FinGuard MCP - [INFO] - FinGuard MCP server initialized and waiting for client connections
+2025-12-21 22:08:51,512 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 22:08:51,512 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 22:08:52,685 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 22:08:52,686 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 22:08:52,696 - FinGuard MCP - [INFO] - Processing request of type CallToolRequest
+2025-12-21 22:08:52,699 - FinGuard MCP - [INFO] - Tool called: read_transaction_file with args: {"file_name": "all_transactions_merged.csv"}
+2025-12-21 22:08:52,700 - FinGuard MCP - [INFO] - Reading transaction file: C:\Users\adity\project\agent capstone\fin_guard_ai\resources\all_transactions_merged.csv
+2025-12-21 22:08:52,703 - FinGuard MCP - [INFO] - Successfully read 176 transactions
+2025-12-21 22:08:52,713 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 22:08:52,714 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 22:09:50,865 - FinGuard MCP - [INFO] - Starting FinGuard MCP server (stdio)...
+2025-12-21 22:09:50,873 - FinGuard MCP - [INFO] - FinGuard MCP server initialized and waiting for client connections
+2025-12-21 22:09:50,879 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 22:09:50,880 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 22:09:51,574 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 22:09:51,575 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 22:10:43,673 - FinGuard MCP - [INFO] - Starting FinGuard MCP server (stdio)...
+2025-12-21 22:10:43,681 - FinGuard MCP - [INFO] - FinGuard MCP server initialized and waiting for client connections
+2025-12-21 22:10:43,688 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 22:10:43,688 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 22:10:44,734 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 22:10:44,734 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 22:11:17,859 - FinGuard MCP - [INFO] - Starting FinGuard MCP server (stdio)...
+2025-12-21 22:11:17,865 - FinGuard MCP - [INFO] - FinGuard MCP server initialized and waiting for client connections
+2025-12-21 22:11:17,872 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 22:11:17,873 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 22:11:19,238 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 22:11:19,239 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 22:11:20,507 - FinGuard MCP - [INFO] - Starting FinGuard MCP server (stdio)...
+2025-12-21 22:11:20,513 - FinGuard MCP - [INFO] - FinGuard MCP server initialized and waiting for client connections
+2025-12-21 22:11:20,522 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 22:11:20,523 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 22:12:11,008 - FinGuard MCP - [INFO] - Starting FinGuard MCP server (stdio)...
+2025-12-21 22:12:11,015 - FinGuard MCP - [INFO] - FinGuard MCP server initialized and waiting for client connections
+2025-12-21 22:12:11,023 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 22:12:11,023 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 22:12:12,162 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 22:12:12,163 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 22:12:12,174 - FinGuard MCP - [INFO] - Processing request of type CallToolRequest
+2025-12-21 22:12:12,178 - FinGuard MCP - [INFO] - Tool called: read_transaction_file with args: {"file_name": "all_transactions_merged.csv"}
+2025-12-21 22:12:12,179 - FinGuard MCP - [INFO] - Reading transaction file: C:\Users\adity\project\agent capstone\fin_guard_ai\resources\all_transactions_merged.csv
+2025-12-21 22:12:12,186 - FinGuard MCP - [INFO] - Successfully read 176 transactions
+2025-12-21 22:12:12,203 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 22:12:12,205 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 22:12:13,324 - FinGuard MCP - [INFO] - Processing request of type CallToolRequest
+2025-12-21 22:12:13,327 - FinGuard MCP - [INFO] - Tool called: read_transaction_file with args: {"file_name": "all_transactions_merged.csv"}
+2025-12-21 22:12:13,328 - FinGuard MCP - [INFO] - Reading transaction file: C:\Users\adity\project\agent capstone\fin_guard_ai\resources\all_transactions_merged.csv
+2025-12-21 22:12:13,336 - FinGuard MCP - [INFO] - Successfully read 176 transactions
+2025-12-21 22:12:13,354 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 22:12:13,355 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 22:12:41,461 - FinGuard MCP - [INFO] - Starting FinGuard MCP server (stdio)...
+2025-12-21 22:12:41,468 - FinGuard MCP - [INFO] - FinGuard MCP server initialized and waiting for client connections
+2025-12-21 22:12:41,475 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 22:12:41,475 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 22:12:44,554 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 22:12:44,554 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 22:12:44,563 - FinGuard MCP - [INFO] - Processing request of type CallToolRequest
+2025-12-21 22:12:44,566 - FinGuard MCP - [INFO] - Tool called: read_transaction_file with args: {"file_name": "all_transactions_merged.csv"}
+2025-12-21 22:12:44,567 - FinGuard MCP - [INFO] - Reading transaction file: C:\Users\adity\project\agent capstone\fin_guard_ai\resources\all_transactions_merged.csv
+2025-12-21 22:12:44,570 - FinGuard MCP - [INFO] - Successfully read 176 transactions
+2025-12-21 22:12:44,581 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 22:12:44,582 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 22:12:59,888 - FinGuard MCP - [INFO] - Starting FinGuard MCP server (stdio)...
+2025-12-21 22:12:59,896 - FinGuard MCP - [INFO] - FinGuard MCP server initialized and waiting for client connections
+2025-12-21 22:12:59,903 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 22:12:59,904 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 22:13:01,153 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 22:13:01,154 - FinGuard MCP - [INFO] - list_tools called
+2025-12-21 22:13:01,164 - FinGuard MCP - [INFO] - Processing request of type CallToolRequest
+2025-12-21 22:13:01,166 - FinGuard MCP - [INFO] - Tool called: read_transaction_file with args: {"file_name": "all_transactions_merged.csv"}
+2025-12-21 22:13:01,166 - FinGuard MCP - [INFO] - Reading transaction file: C:\Users\adity\project\agent capstone\fin_guard_ai\resources\all_transactions_merged.csv
+2025-12-21 22:13:01,168 - FinGuard MCP - [INFO] - Successfully read 176 transactions
+2025-12-21 22:13:01,179 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-21 22:13:01,180 - FinGuard MCP - [INFO] - list_tools called
+2025-12-23 17:25:03,109 - FinGuard MCP - [INFO] - Starting FinGuard MCP server (stdio)...
+2025-12-23 17:25:03,118 - FinGuard MCP - [INFO] - FinGuard MCP server initialized and waiting for client connections
+2025-12-23 17:25:03,124 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-23 17:25:03,124 - FinGuard MCP - [INFO] - list_tools called
+2025-12-23 17:25:04,554 - FinGuard MCP - [INFO] - Processing request of type ListToolsRequest
+2025-12-23 17:25:04,554 - FinGuard MCP - [INFO] - list_tools called

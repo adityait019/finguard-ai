@@ -1,0 +1,27 @@
+Transaction type,Primary / Addon Customer Name,DATE,Description,AMT,Debit / Credit
+Domestic,ADITYA KUMAR,17/05/2025 12:07:18,ZOMATO LIMITED           Gurugram,389.8,Debited
+Domestic,ADITYA KUMAR,17/05/2025 10:59:40,PZRECHARGE NON BBPS    MUMBAI,398,Debited
+Domestic,ADITYA KUMAR,17/05/2025         ,ZOMATO LIMITED           Gurugram,389.8,Credited
+Domestic,ADITYA KUMAR,19/05/2025 10:56:59,Eat Good Technologies PvtBangalore,45,Debited
+Domestic,ADITYA KUMAR,20/05/2025 10:53:14,Eat Good Technologies PvtBangalore,45,Debited
+Domestic,ADITYA KUMAR,21/05/2025 10:46:49,Eat Good Technologies PvtBangalore,65,Debited
+Domestic,ADITYA KUMAR,22/05/2025 13:19:31,HUNGERBOX                BANGALORE,50,Debited
+Domestic,ADITYA KUMAR,24/05/2025 13:48:37,BUNDL TECHNOLOGIES PVT LTBengaluru,685,Debited
+Domestic,ADITYA KUMAR,25/05/2025 17:59:10,ZUDIO A UNIT OF TRENT LKOLKATTA,"                       2,406.00",Debited
+Domestic,ADITYA KUMAR,25/05/2025 18:15:15,RELIANCE TRENDS        KOLKATA,"                       1,008.00",Debited
+Domestic,ADITYA KUMAR,26/05/2025 13:05:28,HUNGERBOX                BANGALORE,90,Debited
+Domestic,ADITYA KUMAR,27/05/2025 21:58:46,INNOVATIVE RETAIL CONCEP Bangalore,370.35,Debited
+Domestic,ADITYA KUMAR,27/05/2025 10:31:09,FLIPKART PAYMENTS        BANGALORE,"                       1,586.00",Debited
+Domestic,ADITYA KUMAR,29/05/2025 18:34:26,INNOVATIVE RETAIL CONCEP Bangalore,283.2,Debited
+Domestic,ADITYA KUMAR,29/05/2025 15:35:07,Eat Good Technologies PvtBangalore,113,Debited
+Domestic,ADITYA KUMAR,30/05/2025 08:22:52,CC PAYMENT 418573542836 PayZapp (Ref# 00000000000530018603460),"                       7,144.55",Credited
+Domestic,ADITYA KUMAR,03/06/2025 00:32:36,ZOMATO                   NEW DELHI,577.65,Debited
+Domestic,ADITYA KUMAR,05/06/2025 14:25:27,Eat Good Technologies PvtBangalore,120,Debited
+Domestic,ADITYA KUMAR,05/06/2025 14:23:15,HUNGERBOX                BANGALORE,200,Debited
+Domestic,ADITYA KUMAR,05/06/2025         ,HUNGERBOX                BANGALORE,200,Credited
+Domestic,ADITYA KUMAR,06/06/2025 23:08:08,ZOMATO                   NEW DELHI,958.82,Debited
+Domestic,ADITYA KUMAR,09/06/2025 12:49:22,Eat Good Technologies PvtBangalore,150,Debited
+Domestic,ADITYA KUMAR,10/06/2025 10:28:34,Eat Good Technologies PvtBangalore,65,Debited
+Domestic,ADITYA KUMAR,10/06/2025 21:21:32,INNOVATIVE RETAIL CONCEP Bangalore,202.86,Debited
+Domestic,ADITYA KUMAR,11/06/2025 08:08:53,PAY*EAT GOOD TECHNOLOG   BANGALORE,15,Debited
+Domestic,ADITYA KUMAR,11/06/2025 08:01:20,Eat Good Technologies PvtBangalore,26,Debited

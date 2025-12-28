@@ -1,6 +1,14 @@
 from google.adk.agents.llm_agent import Agent
-
+from google.adk.agents.remote_a2a_agent import RemoteA2aAgent
 # Simple notification agent for A2A demo
+
+remote_agent=RemoteA2aAgent(
+    name='notification_agent',
+    description='Handles user notifications and alerts for financial events (A2A demo agent).',
+    agent_card=(
+        f"http://localho
+    )
+)
 notification_agent = Agent(
     model='gemini-2.0-flash',
     name='notification_agent',

@@ -5,6 +5,13 @@ from google.adk.tools.mcp_tool.mcp_toolset import MCPToolset
 from google.adk.tools.mcp_tool.mcp_session_manager import StdioConnectionParams
 from mcp import StdioServerParameters
 from fin_guard_ai.prompts.prompt_loader import load_prompt
+from google.adk.models.lite_llm import LiteLlm
+import os
+from dotenv import load_dotenv
+load_dotenv(override=True)
+
+MODEL_NAME=os.getenv('GEMINI_MODEL_NAME', 'gemini/gemini-2.0-flash')
+llm=LiteLlm(model=MODEL_NAME, api_key=os.getenv('FIRST_GOOGLE_API_KEY'))
 
 # Path to your MCP server (adjust if needed)
 MCP_SERVER_PATH = r"C:\Users\adity\project\agent capstone\fin_guard_ai\mcp_server.py"
@@ -21,7 +28,7 @@ mcp_test_tools = MCPToolset(
 )
 
 mcp_test_agent = Agent(
-    model='gemini-2.0-flash',
+    model=llm,
     name='mcp_test',
     description='Test agent for MCP tool integration',
     instruction="""You are a test agent that demonstrates MCP tool integration. 
